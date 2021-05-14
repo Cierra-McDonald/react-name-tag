@@ -1,0 +1,16 @@
+.outershell { 
+    padding-top: 3px;
+    width: 400px;
+    height: 300px;
+    margin: auto;
+    border: whitesmoke solid 5px;
+    border-radius: 3em;
+    background-color: blue;
+    color: whitesmoke;
+    font-family: monospace;
+    text-align: center;
+}
+
+body { 
+    background-color: tomato;
+}

@@ -1,0 +1,18 @@
+.colorShell { 
+    color: whitesmoke;
+    font-family: monospace;
+    font-size: 24px;
+    text-align: center;
+    justify-self: baseline;
+    padding-top: 5px;
+    
+}
+
+.textArea { 
+    width: 393px;
+    height: 100px;
+    margin-top: 19%;
+    font-family: monospace;
+    font-size: 56px;
+    color: palevioletred
+}
